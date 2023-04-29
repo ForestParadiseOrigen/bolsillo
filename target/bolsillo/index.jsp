@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BD AJCV 2023</title>
+    <!--ICONO-->
+    <link rel="icon" href="">
     <!--CSS-->
     <link rel="stylesheet" href="ASSETS/CSS/styles.css">
     <!--ANIMACIONES-->
@@ -30,10 +32,10 @@
         <section class="index__pres__rigth">
         <input class="casilla" type="text" placeholder="Usuario">
         <input class="casilla" type="password" placeholder="Contraseña"><br>
-        <a href="VIEW/chose.html">
-            <button type="submit" href="chose.html">Listo</button>
+        <a href="VIEW/chose.jsp">
+            <button type="submit" href="chose.jsp">Listo</button>
         </a>
-        </section>
+    </section>
     </section>
     <!--SECCION DE INFORMACION-->
     <section class="index__info">   

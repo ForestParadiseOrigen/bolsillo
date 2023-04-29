@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,7 +16,7 @@
         </div>
         <nav class="index__header__nav">
             <li>
-                <a href="chose.html">Cerrar sesion</a>
+                <a href="chose.jsp">Cerrar sesion</a>
             </li>
         </nav>
     </header>

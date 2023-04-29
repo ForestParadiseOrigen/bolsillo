@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,18 +16,18 @@
             </div>
             <div class="chose__select"><!--CONTENEDOR-->
                 <div class="chose__daviplata"><!--OPCION-->
-                    <a href="dashboardDaviplata.html">
+                    <a href="dashboardDaviplata.jsp">
                         <h3>Daviplata</h3>
                     </a>
                 </div>
                 <div class="chose__nequi"><!--OPCION-->
-                    <a href="dashboardNequi.html">
+                    <a href="dashboardNequi.jsp">
                         <h3>Nequi</h3>
                     </a>
                 </div>
             </div>
             <div class="chose__out">
-                <a href="index.html">Salir</a>
+                <a href="index.jsp">Salir</a>
             </div>
         </div>
     </section>
